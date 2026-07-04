@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T07:01:31.134Z",
+  "generated_at": "2026-09-28T07:01:33.934Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -117,6 +117,32 @@
       "last_pushed_at": "2026-07-02T06:53:55.929Z",
       "language": "python",
       "lines": 6
+    },
+    "problem:10": {
+      "kind": "problem",
+      "id": "10",
+      "title": "Calculate Covariance Matrix",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/10",
+      "path": "problems/0010-calculate-covariance-matrix",
+      "first_solved_at": "2026-07-04T05:57:33.380Z",
+      "last_pushed_at": "2026-07-04T05:57:33.380Z",
+      "language": "python",
+      "lines": 21
+    },
+    "problem:11": {
+      "kind": "problem",
+      "id": "11",
+      "title": "Solve Linear Equations using Jacobi Method",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/11",
+      "path": "problems/0011-solve-linear-equations-using-jacobi-method",
+      "first_solved_at": "2026-07-04T08:30:17.757Z",
+      "last_pushed_at": "2026-07-04T08:30:17.757Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }
