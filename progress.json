@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T07:01:33.934Z",
+  "generated_at": "2026-09-28T07:01:35.895Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -143,6 +143,45 @@
       "last_pushed_at": "2026-07-04T08:30:17.757Z",
       "language": "python",
       "lines": 14
+    },
+    "problem:12": {
+      "kind": "problem",
+      "id": "12",
+      "title": "Singular Value Decomposition (SVD) of 2x2 Matrix",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/12",
+      "path": "problems/0012-singular-value-decomposition-svd-of-2x2-matrix",
+      "first_solved_at": "2026-07-05T12:43:47.900Z",
+      "last_pushed_at": "2026-07-05T12:43:47.900Z",
+      "language": "python",
+      "lines": 26
+    },
+    "problem:146": {
+      "kind": "problem",
+      "id": "146",
+      "title": "Momentum Optimizer",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/146",
+      "path": "problems/0146-momentum-optimizer",
+      "first_solved_at": "2026-07-05T12:51:09.639Z",
+      "last_pushed_at": "2026-07-05T12:51:09.639Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:14": {
+      "kind": "problem",
+      "id": "14",
+      "title": "Linear Regression Using Normal Equation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/14",
+      "path": "problems/0014-linear-regression-using-normal-equation",
+      "first_solved_at": "2026-07-05T13:00:44.993Z",
+      "last_pushed_at": "2026-07-05T13:00:44.993Z",
+      "language": "python",
+      "lines": 13
     }
   }
 }
