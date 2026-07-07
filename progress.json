@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T07:01:35.895Z",
+  "generated_at": "2026-09-28T07:01:37.683Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -182,6 +182,32 @@
       "last_pushed_at": "2026-07-05T13:00:44.993Z",
       "language": "python",
       "lines": 13
+    },
+    "problem:566": {
+      "kind": "problem",
+      "id": "566",
+      "title": "Expected vs Sample Updates Comparison",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/566",
+      "path": "problems/0566-expected-vs-sample-updates-comparison",
+      "first_solved_at": "2026-07-07T04:32:37.931Z",
+      "last_pushed_at": "2026-07-07T04:32:37.931Z",
+      "language": "python",
+      "lines": 58
+    },
+    "problem:1022": {
+      "kind": "problem",
+      "id": "1022",
+      "title": "L2 Normalization Along an Axis",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1022",
+      "path": "problems/1022-l2-normalization-along-an-axis",
+      "first_solved_at": "2026-07-07T04:42:38.914Z",
+      "last_pushed_at": "2026-07-07T04:42:38.914Z",
+      "language": "python",
+      "lines": 18
     }
   }
 }
