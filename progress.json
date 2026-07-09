@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T07:01:39.793Z",
+  "generated_at": "2026-09-28T07:01:41.864Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -221,6 +221,32 @@
       "last_pushed_at": "2026-07-08T14:55:40.382Z",
       "language": "python",
       "lines": 19
+    },
+    "problem:1111": {
+      "kind": "problem",
+      "id": "1111",
+      "title": "Top-3 Salaries Per Department",
+      "difficulty": "medium",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1111",
+      "path": "problems/1111-top-3-salaries-per-department",
+      "first_solved_at": "2026-07-09T03:40:41.910Z",
+      "last_pushed_at": "2026-07-09T03:40:41.910Z",
+      "language": "sql",
+      "lines": 21
+    },
+    "problem:414": {
+      "kind": "problem",
+      "id": "414",
+      "title": "Compute Arithmetic Intensity and Classify Bottleneck",
+      "difficulty": "easy",
+      "category": "Inference",
+      "url": "https://www.deep-ml.com/problems/414",
+      "path": "problems/0414-compute-arithmetic-intensity-and-classify-bottleneck",
+      "first_solved_at": "2026-07-09T03:55:39.025Z",
+      "last_pushed_at": "2026-07-09T03:55:39.025Z",
+      "language": "python",
+      "lines": 25
     }
   }
 }
