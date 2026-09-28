@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**19** solved · 19 problems · 0 labs · 0 math
+**21** solved · 20 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -26,11 +26,18 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-07-02 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-07-02 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Expected vs Sample Updates Comparison](https://www.deep-ml.com/problems/566) | medium | 2026-07-07 | [solution](problems/0566-expected-vs-sample-updates-comparison) |
+| [Frame-Aware Corrupt for Drift Simulation](https://www.deep-ml.com/problems/459) | medium | 2026-09-28 | [solution](problems/0459-frame-aware-corrupt-for-drift-simulation) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-07-02 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-07-02 | [solution](problems/0007-matrix-transformation) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2026-07-04 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
 | [Top-3 Salaries Per Department](https://www.deep-ml.com/problems/1111) | medium | 2026-07-09 | [solution](problems/1111-top-3-salaries-per-department) |
 | [Singular Value Decomposition (SVD) of 2x2 Matrix](https://www.deep-ml.com/problems/12) | hard | 2026-07-05 | [solution](problems/0012-singular-value-decomposition-svd-of-2x2-matrix) |
+
+## Labs
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Design Your Own Normalization Layer](https://www.deep-ml.com/labs/24) | easy | 2026-09-28 | [solution](labs/0024-design-your-own-normalization-layer) |
 
 ---
 
